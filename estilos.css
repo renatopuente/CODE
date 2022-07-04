@@ -1,0 +1,17 @@
+.container {
+    height: 100vh;
+    background-color: #2f2f2f;
+    display: grid;
+    place-items: center;
+}
+
+.picture {
+    font-size: 10px;
+    line-height: 10px;
+    background: url(https://www.freeiconspng.com/thumbs/cat-png/cute-cat-png-0.png) fixed center no-repeat;
+    background-size: contain;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fil-color:
+    rgba(136, 59, 155, 0.1);
+}
